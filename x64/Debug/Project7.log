@@ -1,0 +1,4 @@
+﻿  MyGeometries.cpp
+C:\Users\erichuanpeng\source\repos\Project7\MyGeometries.cpp(370,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\erichuanpeng\source\repos\Project7\MyGeometries.cpp(370,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project7.vcxproj -> C:\Users\erichuanpeng\source\repos\Project7\x64\Debug\Project7.exe
